@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="relative min-h-screen bg-slate-300 z-10">
         <div className="flex relative items-center justify-center min-h-screen">
-          <div className="bg-white relative rounded-xl shadow-lg p-4 pb-10 w-80 h-[499px] text-center flex flex-col z-20">
+          <div className="bg-white relative rounded-[20px] shadow-lg p-4 pb-10 w-80 h-[499px] text-center flex flex-col z-20">
               <img
               src={img}
               alt="QR Code"
