@@ -8,7 +8,10 @@ export default {
         img: '#2C7DFA',
         h2: "#1F314F",
         h1: "#68778D",
-      }
+      },
+      fontFamily: {
+        outfit: ['Outfit', 'sans-serif'],
+      },
     },
   },
   plugins: [],
